@@ -1,0 +1,85 @@
+About: Image Viewer
+
+1.	Overview
+2.	Version
+3.	Installing application
+4.	Opening application
+5.	Main functions:
+5.1.	Navigation buttons
+5.2.	Using combo box
+5.3.	Editing text
+5.4.	How to save edited text
+5.5.	How to open image in Paint
+5.6.	Changing font colour
+5.7.	Look and Feel option
+5.8.	Help menu
+6.	Closing application
+7.	FAQ
+8.	Technical support
+
+
+
+1.	Overview
+Image Viewer is a java application which displays images and related text. Images and text files are stored in Images and Text folders. User can select required image by clicking on navigation buttons below text field or select directly from combo box.
+Additionally application has option to edit and save text from text area; open image in Paint for editing purpose.
+
+2.	Version
+Image Viewer version 2.0 java application created in June 2015 by Krzysztof Dziurawiec HNC student at Newbury College.
+
+3.	Installing application
+To  sucesfullyinstallImage  Viewer please copy Image Viewer Folder into chosen directory. Image Viewer Folder should contain: images Folder, text Folder, run.exe file, readme.txt file, about.txt file and Documantation folder.
+
+4.	Opening application
+To open Image Viewer application please goes to Image Viewer Folder. Inside the folder find file: run.jar and double click on it after which application will launch.
+To run Image Viewer on your system, you need to have installed Java Run Environment version 8.
+To open Image Viewer in command prompt go to Image Viewer location by using command cd (full path) and enter "java -jar run.jar" which opens application  
+5.	Main Functions
+
+5.1.	Navigation buttons
+•	Next button – after clicking this button next image with related text will be displayed
+•	Back button – after clicking this button previous image with related text will be displayed
+•	First button – clicking this button will display the first in the folder image with related text.
+•	Last button - clicking this button will display the last in the folder image with related text.
+
+5.2.	Using combo box
+By clicking on one of the title inside the combo box, user is selecting image and text for display.
+
+5.3.	Editing text
+To edit text please click inside text area. After clicking, cursor should appear and you can make changes to the text.
+
+5.4.	How to save edited text
+To save edited text please click on Save button next to text area or select Save option from File menu in Menu bar. After clicking, program default directory will open. Please choose which file you making changes to and click save. Please note that title in combo box displays the name of the file which you  are currently editing, so if you want save changes to the same file, please choose text file with the  same name as shown in combo box.
+
+5.5.	How to open image in Paint
+To open selected image in Paint, please go to Menu bar, File menu and choose Open in Paint option. Current image will open in Paint application ready to edit.
+
+5.6.	Changing font colour
+To change font colour of text, go to Menu bar, Tools menu and choose Font Colour option. New window will open in which you can set new colour and click Apply button to implement changes.
+
+5.7.	Look and Feel option
+You can change the look of application. There are two available themes: Nimbus and Metal. To change current theme, please go to Menu bar, Tools menu, Look and Feel sub menu and click on theme of your choice.
+
+5.8.	Help menu
+For help related to application interface or functionality go to Menu bar, Help menu and choose About option, which will open about.txt file.
+
+6.	Closing application
+To close, please select in Menu bar, File menu and click on Close option or alternatively press Ctrl + x shortcut combination. In next window you will be asked if you really want to quit, pressing Yes would close application.
+
+7.	FAQ
+•	How to go back to first picture?
+Pressing First button will display the first in the folder image with related text.
+•	How to go to last picture?
+Pressing Last button will display the last in the folder image with related text.
+•	How to edit text?
+To edit text please click inside text area. After clicking, cursor should appear and you can make changes to the text.
+•	How to open application?
+To open Image Viewer application please goes to Image Viewer Folder. Inside the folder find file: run.jar and double click on it after which application will launch.
+•	How to add new images?
+To add new images with text, you can add images to the images folder with file name: image(x).jpg where (x) is the id number of images. To add text you should save text file into text Folder with name: text(x).txt where (x) should have the same number as image(x).jpg.
+
+8.	Technical support contact details:
+Krzysztof Dziurawiec
+HNC Technical Support
+Newbury College
+Newbury
+Email: chrisHNC@hotmail.com
