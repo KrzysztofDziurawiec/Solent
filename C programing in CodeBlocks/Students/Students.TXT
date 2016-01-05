@@ -1,0 +1,14 @@
+1 A Tom 34 45 56  45.00
+2 C Bob 34 78 89  67.00
+3 B Alice 56 78 90  74.67
+4 Biology Binita 98 87 76  87.00
+5 Physics Keeya 76 54 67  65.67
+6 Math Bob 12 23 34  23.00
+7 It Fred 22 33 44  33.00
+8 It Alex 90 99 90  93.00
+9 It Chris 70 80 50  66.67
+10 Maths Chris 40 34 79  51.00
+11 Mechanic Gelu 21 23 34  26.00
+12 Math Binita 87 90 90  89.00
+13 It Neeraj 98 87 76  87.00
+14 B Keeya 101 20 -1  40.00

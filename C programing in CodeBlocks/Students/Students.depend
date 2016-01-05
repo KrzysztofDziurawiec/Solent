@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1433174971 source:c:\users\owner\desktop\c programing\c programing in codeblocks\students\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
